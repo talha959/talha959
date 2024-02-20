@@ -19,4 +19,4 @@ I am a student at PAF-IAST currently pursuing a degree in Software Engineering. 
 
 ## Contact Me
 - You can reach me via email at (i.talha.rajpot@gmail.com)
-- Connect with me on [LinkedIn]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/muhammad-talha-ishaque-695b35264/)https://www.linkedin.com/in/muhammad-talha-ishaque-695b35264/)
+- Connect with me on (https://www.linkedin.com/in/muhammad-talha-ishaque-695b35264/)
